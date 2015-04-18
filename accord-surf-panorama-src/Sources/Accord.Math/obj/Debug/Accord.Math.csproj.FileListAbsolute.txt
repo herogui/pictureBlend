@@ -1,0 +1,6 @@
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\bin\Debug\Accord.Math.dll
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\bin\Debug\Accord.Math.pdb
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\bin\Debug\AForge.dll
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\bin\Debug\AForge.Math.dll
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.dll
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.pdb

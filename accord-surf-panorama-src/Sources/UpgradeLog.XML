@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Accord.NET">
+</Property><Property Name="解决方案文件" Value="C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.NET.sln">
+</Property><Property Name="Date" Value="2015年4月10日">
+</Property><Property Name="Time" Value="15:20">
+</Property></Properties><Event ErrorLevel="0" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Accord.Imaging" Source="Accord.Imaging\Accord.Imaging.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Accord.Imaging" Source="Accord.Imaging\Accord.Imaging.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Panorama" Source="..\Samples\Imaging\Panorama\Panorama.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Panorama" Source="..\Samples\Imaging\Panorama\Panorama.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Accord.NET.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Accord.NET.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Panorama" Source="..\Samples\Imaging\Panorama\Panorama.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="已为“Debug (Any CPU)”配置创建规则集文件“C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\Migrated rules for Accord.Math.ruleset”。">
+</Event><Event ErrorLevel="0" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="已为“Release (Any CPU)”配置创建规则集文件“C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\Migrated rules for Accord.Math (2).ruleset”。">
+</Event><Event ErrorLevel="0" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="已为“Debug (Any CPU)”配置创建规则集文件“C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Statistics\Migrated rules for Accord.Statistics.ruleset”。">
+</Event><Event ErrorLevel="0" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="已为“Release (Any CPU)”配置创建规则集文件“C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Statistics\Migrated rules for Accord.Statistics (2).ruleset”。">
+</Event><Event ErrorLevel="0" Project="Accord.Imaging" Source="Accord.Imaging\Accord.Imaging.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Accord.Imaging" Source="Accord.Imaging\Accord.Imaging.csproj" Description="已为“Debug (Any CPU)”配置创建规则集文件“C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Imaging\Migrated rules for Accord.Imaging.ruleset”。">
+</Event><Event ErrorLevel="0" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="已为“Debug (Any CPU)”配置创建规则集文件“C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.MachineLearning\Migrated rules for Accord.MachineLearning.ruleset”。">
+</Event><Event ErrorLevel="0" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="已为“Release (Any CPU)”配置创建规则集文件“C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.MachineLearning\Migrated rules for Accord.MachineLearning (2).ruleset”。">
+</Event></UpgradeLog>

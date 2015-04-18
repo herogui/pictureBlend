@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Migrated rules for Accord.MachineLearning (2).ruleset" Description="已通过项目“C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.MachineLearning\Accord.MachineLearning.csproj”中的“Release (Any CPU)”配置的 CodeAnalysisRules 属性创建此规则集。" ToolsVersion="10.0">
+  <IncludeAll Action="Warning" />
+  <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
+    <Rule Id="CA1014" Action="None" />
+    <Rule Id="CA1020" Action="None" />
+    <Rule Id="CA1021" Action="None" />
+    <Rule Id="CA1800" Action="None" />
+    <Rule Id="CA1814" Action="None" />
+    <Rule Id="CA1819" Action="None" />
+  </Rules>
+</RuleSet>

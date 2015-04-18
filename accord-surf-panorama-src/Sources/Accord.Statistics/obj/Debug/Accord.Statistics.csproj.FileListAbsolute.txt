@@ -1,0 +1,5 @@
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Statistics\bin\Debug\Accord.Statistics.dll
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Statistics\bin\Debug\Accord.Statistics.pdb
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.csprojResolveAssemblyReference.cache
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.dll
+C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.pdb

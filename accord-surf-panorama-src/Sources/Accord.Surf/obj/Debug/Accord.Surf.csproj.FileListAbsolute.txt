@@ -1,0 +1,6 @@
+E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\obj\Debug\Accord.Surf.csprojResolveAssemblyReference.cache
+E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\bin\Debug\Accord.Surf.dll
+E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\bin\Debug\Accord.Surf.pdb
+E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\bin\Debug\MathNet.Iridium.dll
+E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\obj\Debug\Accord.Surf.dll
+E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\obj\Debug\Accord.Surf.pdb
