@@ -19,7 +19,7 @@ namespace Panorama
 
         Thread thd;
 
-        float thread = 0.0005f;//值越小   匹配点越多
+        float thread = 0.0001f;//值越小   匹配点越多
         int cutSize = 2000; //长或宽大于cutSize 则做切割处理
 
         public MainForm()

@@ -90,18 +90,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -127,24 +127,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\green_nature1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\green_nature2.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\PICT0126a.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\PICT0127a.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\PICT0107a.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\PICT0108a.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
@@ -160,18 +142,6 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\039ss.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\c2212.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\IMGP120010908.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\IMGP120010909.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

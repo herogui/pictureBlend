@@ -3,3 +3,8 @@ C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.MachineLearning\bin\Debu
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.csprojResolveAssemblyReference.cache
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.dll
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.pdb
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.MachineLearning\bin\Debug\Accord.MachineLearning.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.MachineLearning\bin\Debug\Accord.MachineLearning.pdb
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.csprojResolveAssemblyReference.cache
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.pdb

@@ -4,3 +4,9 @@ E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.S
 E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\bin\Debug\MathNet.Iridium.dll
 E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\obj\Debug\Accord.Surf.dll
 E:\zkg_work\Project\surf\project\accord.net\accord-panorama-src\Sources\Accord.Surf\obj\Debug\Accord.Surf.pdb
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Surf\bin\Debug\Accord.Surf.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Surf\bin\Debug\Accord.Surf.pdb
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Surf\bin\Debug\MathNet.Iridium.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Surf\obj\Debug\Accord.Surf.csprojResolveAssemblyReference.cache
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Surf\obj\Debug\Accord.Surf.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Surf\obj\Debug\Accord.Surf.pdb

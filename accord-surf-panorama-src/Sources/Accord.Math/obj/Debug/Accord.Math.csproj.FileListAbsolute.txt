@@ -4,3 +4,10 @@ C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\bin\Debug\AForge.dl
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\bin\Debug\AForge.Math.dll
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.dll
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.pdb
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Math\bin\Debug\Accord.Math.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Math\bin\Debug\Accord.Math.pdb
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Math\bin\Debug\AForge.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Math\bin\Debug\AForge.Math.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.csprojResolveAssemblyReference.cache
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.pdb

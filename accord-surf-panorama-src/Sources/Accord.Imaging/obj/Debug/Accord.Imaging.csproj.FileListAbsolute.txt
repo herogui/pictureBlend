@@ -5,3 +5,10 @@ C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\AForge
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.csprojResolveAssemblyReference.cache
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.dll
 C:\Users\gis\Desktop\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.pdb
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Imaging\bin\Debug\Accord.Imaging.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Imaging\bin\Debug\Accord.Imaging.pdb
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Imaging\bin\Debug\AForge.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Imaging\bin\Debug\AForge.Imaging.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.csprojResolveAssemblyReference.cache
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.dll
+E:\Project\CloudGIS\pictureBlend\accord-surf-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.pdb
